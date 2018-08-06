@@ -90,3 +90,4 @@ jupyter-tensorboard==0.1.6
 # Optional: these are useful Jupyter extensions, in particular to display the
 # table of contents
 jupyter-contrib-nbextensions==0.5.0
+
